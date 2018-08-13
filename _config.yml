@@ -52,6 +52,7 @@ baseurl: ""
 # Define chapters collection.
 collections:
   chapters:
+    permalink: /:collection/:name
     output: true
 
 #
