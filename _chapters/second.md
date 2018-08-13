@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The second post.
+title: The 1 post.
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
