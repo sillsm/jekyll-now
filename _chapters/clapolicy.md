@@ -6,7 +6,7 @@ title: CLA Policy 2
 
 # Model CLA Policy and Rationale
 
-[TOC]
+{:toc}
 
 ## Introduction
 
