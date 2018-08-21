@@ -6,6 +6,7 @@ title: CLA Policy 2
 
 # Model CLA Policy and Rationale
 
+* Do not remove this line (it will not be displayed)
 {:toc}
 
 ## Introduction
